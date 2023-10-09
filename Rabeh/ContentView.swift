@@ -3,7 +3,7 @@
 //  Rabeh
 //
 //  Created by Felwah on 24/03/1445 AH.
-//
+//this is a test
 
 import SwiftUI
 
@@ -13,7 +13,7 @@ struct ContentView: View {
             Image(systemName: "globe")
                 .imageScale(.large)
                 .foregroundColor(.accentColor)
-            Text("Hello, world!")
+            Text("Hello, world!11111")
         }
         .padding()
     }
