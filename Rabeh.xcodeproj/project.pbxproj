@@ -14,6 +14,7 @@
 		AC2DC0282AD4252500B76B58 /* RabehTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC2DC0272AD4252500B76B58 /* RabehTests.swift */; };
 		AC2DC0322AD4252500B76B58 /* RabehUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC2DC0312AD4252500B76B58 /* RabehUITests.swift */; };
 		AC2DC0342AD4252500B76B58 /* RabehUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC2DC0332AD4252500B76B58 /* RabehUITestsLaunchTests.swift */; };
+		AC2DC0422AD43E7A00B76B58 /* SwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC2DC0412AD43E7A00B76B58 /* SwiftUIView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		AC2DC02D2AD4252500B76B58 /* RabehUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RabehUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		AC2DC0312AD4252500B76B58 /* RabehUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RabehUITests.swift; sourceTree = "<group>"; };
 		AC2DC0332AD4252500B76B58 /* RabehUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RabehUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		AC2DC0412AD43E7A00B76B58 /* SwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,6 +97,7 @@
 			isa = PBXGroup;
 			children = (
 				AC2DC0162AD4252300B76B58 /* RabehApp.swift */,
+				AC2DC0412AD43E7A00B76B58 /* SwiftUIView.swift */,
 				AC2DC0182AD4252300B76B58 /* ContentView.swift */,
 				AC2DC01A2AD4252400B76B58 /* Assets.xcassets */,
 				AC2DC01C2AD4252400B76B58 /* Preview Content */,
@@ -259,6 +262,7 @@
 			files = (
 				AC2DC0192AD4252300B76B58 /* ContentView.swift in Sources */,
 				AC2DC0172AD4252300B76B58 /* RabehApp.swift in Sources */,
+				AC2DC0422AD43E7A00B76B58 /* SwiftUIView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
